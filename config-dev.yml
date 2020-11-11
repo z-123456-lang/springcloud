@@ -1,2 +1,2 @@
-ss:
-  fdff: 123123
+config:
+  info: master branch,springcloud/config-dev.yml version=1
