@@ -1,2 +1,2 @@
-aaa:
-  sa: 12
+config:
+  info: master branch,springcloud/config-test.yml version=1
